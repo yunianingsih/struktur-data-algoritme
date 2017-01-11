@@ -2,4 +2,5 @@
 
 # Pendahuluan
 
-[linked-list]
+[linked-list](part2/linked-list.md)
+
